@@ -1,0 +1,246 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "desc": "Love For All, Hatred For None.",
+      "img": "post/1.jpeg",
+      "createdAt": "Tue May 23 2023 04:18:35",
+      "userId": 1,
+      "likes": 32,
+      "comment": 9
+    },
+    {
+      "id": 2,
+      "img": "post/2.jpeg",
+      "createdAt": "Sat Jul 08 2023 16:52:21",
+      "userId": 2,
+      "likes": 2,
+      "comment": 1
+    },
+    {
+      "id": 3,
+      "desc": "Every moment is a fresh beginning.",
+      "img": "post/3.jpeg",
+      "createdAt": "Fri Dec 08 2023 09:55:47",
+      "userId": 3,
+      "likes": 61,
+      "comment": 2
+    },
+    {
+      "id": 4,
+      "img": "post/4.jpeg",
+      "createdAt": "Sat Aug 19 2023 21:10:36",
+      "userId": 4,
+      "likes": 7,
+      "comment": 3
+    },
+    {
+      "id": 5,
+      "img": "post/5.jpeg",
+      "createdAt": "Sun Apr 02 2023 03:06:49",
+      "userId": 5,
+      "likes": 23,
+      "comment": 5
+    },
+    {
+      "id": 6,
+      "img": "post/6.jpeg",
+      "createdAt": "Tue Oct 31 2023 13:32:14",
+      "userId": 6,
+      "likes": 44,
+      "comment": 6
+    },
+    {
+      "id": 7,
+      "desc": "Never regret anything that made you smile.",
+      "img": "post/7.jpeg",
+      "createdAt": "Thu Feb 09 2023 00:43:05",
+      "userId": 7,
+      "likes": 52,
+      "comment": 3
+    },
+    {
+      "id": 8,
+      "img": "post/8.jpeg",
+      "createdAt": "Mon Sep 18 2023 07:25:58",
+      "userId": 8,
+      "likes": 15,
+      "comment": 1
+    },
+    {
+      "id": 9,
+      "desc": "Change the world by being yourself.",
+      "img": "post/9.jpeg",
+      "createdAt": "Wed Nov 29 2023 18:06:42",
+      "userId": 9,
+      "likes": 11,
+      "comment": 2
+    },
+    {
+      "id": 10,
+      "img": "post/10.jpeg",
+      "createdAt": "Thu Mar 16 2023 11:37:28",
+      "userId": 10,
+      "likes": 104,
+      "comment": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "profilePicture": "person/1.jpeg",
+      "username": "Safak Kocaoglu",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "Smile to the world",
+      "city": "Madrid",
+      "from": "London",
+      "relationship": ""
+    },
+    {
+      "id": 2,
+      "profilePicture": "person/2.jpeg",
+      "username": "Janell Shrum",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Tehran",
+      "from": "Esfahan",
+      "relationship": ""
+    },
+    {
+      "id": 3,
+      "profilePicture": "person/3.jpeg",
+      "username": "Alex Durden",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Shiraz",
+      "from": "Tabriz",
+      "relationship": ""
+    },
+    {
+      "id": 4,
+      "profilePicture": "person/4.jpeg",
+      "username": "Dora Hawks",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "New Yorl",
+      "from": "Mexico City",
+      "relationship": ""
+    },
+    {
+      "id": 5,
+      "profilePicture": "person/5.jpeg",
+      "username": "Thomas Holden",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Los Angels",
+      "from": "Liverpool",
+      "relationship": ""
+    },
+    {
+      "id": 6,
+      "profilePicture": "person/6.jpeg",
+      "username": "Shirley Beauchamp",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Paris",
+      "from": "Berlin",
+      "relationship": ""
+    },
+    {
+      "id": 7,
+      "profilePicture": "person/7.jpeg",
+      "username": "Travis Bennett",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Ahvaz",
+      "from": "Kerman",
+      "relationship": ""
+    },
+    {
+      "id": 8,
+      "profilePicture": "person/8.jpeg",
+      "username": "Kristen Thomas",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Yazd",
+      "from": "Mashhad",
+      "relationship": ""
+    },
+    {
+      "id": 9,
+      "profilePicture": "person/9.jpeg",
+      "username": "Gary Duty",
+      "email": "",
+      "password": "",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "Doubi",
+      "from": "Ankara",
+      "relationship": ""
+    },
+    {
+      "id": 10,
+      "profilePicture": "person/10.jpeg",
+      "username": "Salar Sadeghi",
+      "email": "salar@gmail.com",
+      "password": "$2a$10$A1dsSAq8kvRG.uidg2MiveAlhQS9jKGJ.WZVG37liPpBnv4h.VJr2",
+      "coverPicture": "post/3.jpeg",
+      "followers": "",
+      "followings": "",
+      "isAdmin": "false",
+      "desc": "",
+      "city": "London",
+      "from": "Manchester",
+      "relationship": ""
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$b643up4N.x9CMp8WyhZCOudU7VItLxjzUbXSnI0vzaJh7q97WEpnK",
+      "username": "test",
+      "id": 11
+    }
+  ]
+}

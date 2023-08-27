@@ -12,6 +12,7 @@ function Profile() {
   const PF = process.env.REACT_APP_PUBLIC_FOLDER;
   const { username } = useParams();
   console.log(username);
+  console.log("feed ",user);
   useEffect(() => {
     const getUserByUsername = async () => {
       try {

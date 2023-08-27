@@ -6,6 +6,7 @@ import axios from "axios";
 import { AuthContext } from "../../context/AuthContext";
 
 function Feed({ user }) {
+  console.log("feed ",user);
   const [posts, setPosts] = useState([]);
   const {user:currentUser} = useContext(AuthContext)
   useEffect(() => {
@@ -30,7 +31,7 @@ function Feed({ user }) {
   return (
     <div className="feed">
       <div className="feedWrapper">
-        {user.username === currentUser.username && <Share />}
+        {(!user || user.username === currentUser.username) && <Share />}
         {posts.map((post) => (
           <Post key={post.id} post={post} />
         ))}
